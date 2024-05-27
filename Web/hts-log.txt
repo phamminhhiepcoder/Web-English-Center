@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 01 May 2024 09:39:36 at https://nhatran111.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://nhatran111.vn/ -O1 "D:\web_English_Center\Web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:40:24	Warning: 	Link https://nhatran111.vn/dang-nhap not scanned (follow robots meta tag)
+09:40:37	Warning: 	Link https://nhatran111.vn/thanh-tich-hoc-tap/hoang-thu-minh not scanned (follow robots meta tag)
+09:40:37	Warning: 	Link https://nhatran111.vn/thanh-tich-hoc-tap/nguyen-phuong-linh not scanned (follow robots meta tag)
+09:40:37	Warning: 	Link https://nhatran111.vn/thanh-tich-hoc-tap/vu-minh-diep not scanned (follow robots meta tag)
+09:40:52	Error: 	"Not Found" (404) at link https://nhatran111.vn/css/anh23.jpg (from https://nhatran111.vn/css/site.css)
+09:40:52	Error: 	"Not Found" (404) at link https://nhatran111.vn/image/partner_bg.png (from https://nhatran111.vn/css/site.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 205 links scanned, 202 files written (38644619 bytes overall) [34801397 bytes received at 451966 bytes/sec], 5097972 bytes transferred using HTTP compression in 105 files, ratio 23%
+(2 errors, 4 warnings, 0 messages)

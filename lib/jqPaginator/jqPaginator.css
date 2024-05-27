@@ -1,0 +1,33 @@
+﻿/*Neu ko dung bootstrap thi dung file nay*/
+
+.pagination {
+     display: inline-block;
+    padding-left: 0;
+    margin: 5px 0;
+    float:left;
+    border-radius: 4px; }
+
+
+.pagination li{
+    display: inline;
+}
+
+    .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+        z-index: 2;
+        color: #fff;
+        background-color: #3D84E6;
+        border-color: #3D84E6;
+        cursor: default;
+    }
+
+    .pagination > li > a, .pagination > li > span {
+        position: relative;
+        float: left;
+        padding: 6px 12px;
+        line-height: 1.42857143;
+        text-decoration: none;
+        color: #3D84E6;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        margin-left: -1px;
+    }

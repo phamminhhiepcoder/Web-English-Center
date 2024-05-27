@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nhatran111.vn	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.kug2H5HUdEI	CfDJ8DJVUA_itoZHrr1WGbtpNXFSF00ItWR9FaqdBCtfppMA84p--vkT2HrDL-A2hNaTWg_x-H3Xb843Ug8e64zZY0aU0Fhu0IRl4j-VqI41KE1mH-ZxbiglUG77rtqEB5EX2EFVM2iUuq1DPgn3B7G23ws
+nhatran111.vn	TRUE	/	FALSE	1999999999	samesite	strict
+
